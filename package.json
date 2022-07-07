@@ -1,0 +1,23 @@
+{
+  "name": "api-postgres",
+  "version": "1.0.0",
+  "description": "RESTful API with Node.js, Express, and PostgreSQL",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufengintetik/node_express_postgre.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/yusufengintetik/node_express_postgre/issues"
+  },
+  "homepage": "https://github.com/yusufengintetik/node_express_postgre#readme"
+}
